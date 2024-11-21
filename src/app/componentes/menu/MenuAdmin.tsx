@@ -28,9 +28,9 @@ export const MenuAdmin = () => {
                     <i className="fa-solid fa-pen-to-square" style={{ color: "#ffcc00" }}></i>
                   </NavLink>
                   &nbsp;Edit &nbsp;
-                  <a href="">
+                  <NavLink to="/menadmin">
                     <i className="fa-sharp fa-solid fa-trash" style={{ color: "#ffcc00" }}></i>
-                  </a>
+                  </NavLink>
                   &nbsp;Delete
                 </td>
               </tr>
@@ -45,9 +45,9 @@ export const MenuAdmin = () => {
                     <i className="fa-solid fa-pen-to-square" style={{ color: "#ffcc00" }}></i>
                   </NavLink>
                   &nbsp;Edit &nbsp;
-                  <a href="">
+                  <NavLink to="/menadmin">
                     <i className="fa-sharp fa-solid fa-trash" style={{ color: "#ffcc00" }}></i>
-                  </a>
+                  </NavLink>
                   &nbsp;Delete
                 </td>
               </tr>
@@ -62,9 +62,9 @@ export const MenuAdmin = () => {
                     <i className="fa-solid fa-pen-to-square" style={{ color: "#ffcc00" }}></i>
                   </NavLink>
                   &nbsp;Edit &nbsp;
-                  <a href="">
+                  <NavLink to="/menadmin">
                     <i className="fa-sharp fa-solid fa-trash" style={{ color: "#ffcc00" }}></i>
-                  </a>
+                  </NavLink>
                   &nbsp;Delete
                 </td>
               </tr>
