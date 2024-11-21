@@ -1,4 +1,4 @@
-import { PlatoRegion } from "../../../modelos/PlatoRegion"
+import { PlatoRegion } from "../../modelos/PlatoRegion"
 
 export const ARREGLO_PLATOS_REGION:Array<PlatoRegion>=[
     {codRegion:"1",nombreRegion:"Andina"},
